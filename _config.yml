@@ -16,34 +16,35 @@
 
 ## => Site Settings
 ##############################
-url: https://tianqi.name
+url: https://rian010.github.io
 baseurl: /
-title: Qi's Site
+title: YAN's Site
 description: >
-    Tian Qi's Site | 田琦的小站
+    YAN's Site | YAN's Site
 
 
 ## => Language and Timezone
 ##############################
-lang: zh
-timezone: Asia/Shanghai
+lang: en
+timezone: Asia/Makassar
 
 
 ## => Author and Social
 ##############################
 author:
-  name: Tian Qi
-  email: kitian616@outlook.com
-  twitter: kitian616
-  github:  kitian616
-  googleplus: 101827554735084402671
-  weibo: 234695683
-  douban: kitian616
+  name: YAN
+  email: mhmmdriann@gmail.com
+  twitter: #kitian616
+  linkedin: rian010
+  github:  rian010 #kitian616
+  googleplus: #101827554735084402671
+  weibo: #234695683
+  douban: #kitian616
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: kitian616/kitian616.github.io
+repository: rian010/rian010.github.io
 repository_tree: master
 
 
@@ -76,25 +77,25 @@ paginate_path: /blog/page:num
 comments:
   provider: disqus
   disqus:
-    shortname: kitian616-github-io
+    shortname: yan010
 
 
 ## => Pageview
 ##############################
 pageview:
-  provider: leancloud
+  provider: #leancloud
   leancloud:
-    app_id: uAG3OhdcH8H4fxSqXLyBljA7-gzGzoHsz
-    app_key: Mzf5m9skSwYVWVXhGiYMNyXs
-    app_class: ThomasBlog
+    app_id: #uAG3OhdcH8H4fxSqXLyBljA7-gzGzoHsz
+    app_key: #Mzf5m9skSwYVWVXhGiYMNyXs
+    app_class: #ThomasBlog
 
 
 ## => Analytics
 ##############################
 analytics:
-  provider: google
+  provider: #google
   google:
-    tracking_id: UA-71907556-1
+    tracking_id: #UA-71907556-1
 
 
 ## => Build
