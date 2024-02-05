@@ -32,14 +32,24 @@ timezone: Asia/Makassar
 ## => Author and Social
 ##############################
 author:
-  name: YAN
-  email: mhmmdriann@gmail.com
-  twitter: #kitian616
-  linkedin: rian010
-  github:  rian010 #kitian616
-  googleplus: #101827554735084402671
-  weibo: #234695683
-  douban: #kitian616
+  type      : "person"
+  name      : YAN #deuterium
+  url       : https://rian010.github.io/
+  avatar    : https://avatars.githubusercontent.com/u/89960876?s=96&v=4  #https://github.com/deut-erium/deut-erium.github.io/blob/master/Circle-limit-IV.jpg?raw=1
+  bio       : YAN Sites #Breachers from IITB
+  email     : mhmmriann@gmail.com #zehrileLaunde@protonmail.com
+  facebook  : #groups/csec.iitb # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  twitter   : #0xdeuterium # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
+  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
+  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
+  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
+  zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
+  linkedin  : rian010 # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  github    : rian010 # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
