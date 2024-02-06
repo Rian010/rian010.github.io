@@ -1,12 +1,10 @@
 ---
 layout: article
-title: 关于
+title: Tentang
 key: page-about
 ---
-Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
-
-My Name is Tian Qi (You can also call me Thomas Tian), I am a ~~frontend engineer~~ development engineer working at [Qunar.com](https://www.qunar.com) in Beijing.
-
+Welcome to my blog! 
+Nama Saya MUHAMMAD RIAN (Anda juga bisa memanggil saya RIAN/BYAN)
 ## Skills
 
 - HTML5, CSS3(SASS), JavaScript(ES2017, Node.js), Bash(Zsh)
