@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 关于此博客
+title: Tentang blog ini
 key: 10001
 tags: blog
 category: blog
@@ -8,23 +8,21 @@ date: 2015-10-14 23:15:00 +08:00
 modify_date: 2017-09-16 15:00:00 +08:00
 ---
 
-一直很喜欢用印象笔记。学习的心得，收藏的网页，突然之间的想法，甚至清单，提醒，歌词等等我都会把它们分（luan）门（qi）别（ba）类（zao）的仍到印象笔记中去，久而久之就积累了大量的笔记。
+Saya selalu senang menggunakan Evernote. Saya akan membagi pengalaman belajar, halaman web favorit, pemikiran mendadak, pengingat dll.
 
 <!--more-->
 
-一个雨天，我在整理笔记时感叹到，我的大部分笔记都处于一种创造，修改，遗忘的周期中。一个笔记在写好了一段时间后，就会被渐渐遗忘在一个角落，除了有时不经意间看到或者搜索到，其他时候它们就静静的躺在那里，无人欣赏，这真是笔记的悲哀。突然我想，如果把这些笔记整理放在网上，这样这些笔记不就可以被其他需要的人继续查（xin）看（shang）了吗？于是那时就有了写博客的想法，但却一直拖到今年暑期，才在博客园开通了自己的[博客](http://www.cnblogs.com/kitian616/)。
+Suatu hari hujan, ketika saya sedang memilah catatan saya, saya menyesali bahwa sebagian besar catatan saya berada dalam siklus pembuatan, modifikasi, dan melupakan. Setelah suatu catatan ditulis dalam jangka waktu tertentu, lambat laun akan terlupakan di pojokan, kecuali kadang-kadang jika dilihat atau dicari secara tidak sengaja, di lain waktu catatan itu tergeletak diam di sana tanpa ada yang menghargainya.Inilah tragedi catatan yang sebenarnya. Tiba-tiba saya berpikir, jika saya menyusun catatan ini dan menaruhnya secara online, bukankah catatan tersebut dapat diperiksa dan dibaca oleh orang lain yang membutuhkannya? Jadi ide untuk menulis blog muncul saat itu, namun baru pada musim panas ini saya membuka blog saya sendiri.
 
-在发了 4 篇（技术）博文之后，觉得这种博客平台虽然方便，但是不够个性化，缺乏定制性，于是我就想尝试着搭建一个自己的博客。在尝试一些免费主机觉得太慢太麻烦而放弃之后，偶然的看到了[这篇博文](http://cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)，**GitHub 上的博客，我喜欢**。
+Setelah memposting 4 postingan blog (teknis), saya merasa meskipun platform blogging ini nyaman, namun belum cukup dipersonalisasi dan dapat disesuaikan, jadi saya ingin mencoba membuat blog sendiri. Setelah mencoba beberapa host gratis dan menyerah karena terlalu lambat dan rumit, saya tidak sengaja melihat 4 postingan blog (teknis) dan merasa meskipun platform blog ini nyaman, namun kurang dipersonalisasi dan kurang penyesuaian, jadi saya berpikir Cobalah untuk membangun blog sendiri. 
 
-## 静态博客
+## Blog statis
 
-搭建在 GitHub Page 上的博客属于[静态网站](https://baike.baidu.com/item/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99)，这种网站对服务器的要求低，是一种非常轻量化的网站，不过操作繁琐，每一个页面都要写一个完整的 HTML 网页文件。不过幸运的是，现在已经有很多优秀的静态博客系统，它们可以非常方便的根据你所写的内容来生成相应的网页文件，你所需要做的仅仅是写博文（使用 [Markdown](https://zh.wikipedia.org/wiki/Markdown)书写），然后运行博客系统生成网页文件，再将生成好的网页文件上传到服务器上去。简单的说，这些博客工具将静态网站稍微动态化了一些，有点像动态网站的页面缓存机制。
+Blog yang dibangun di Halaman GitHub adalah [situs web statis](https://id.wikipedia.org/wiki/Situs_web#Situs_web_statis). Situs web semacam ini memiliki persyaratan server yang rendah dan merupakan situs web yang sangat ringan. Namun, operasi Ini rumit, dan file halaman web HTML lengkap harus ditulis untuk setiap halaman. Untungnya, sudah ada banyak sistem blog statis yang sangat baik, yang dapat dengan mudah menghasilkan file web yang sesuai berdasarkan konten yang Anda tulis. Yang perlu Anda lakukan hanyalah menulis postingan blog menggunakan [Markdown](https://id.wikipedia.org/wiki/Markdown), kemudian jalankan sistem blog untuk menghasilkan file halaman web, dan kemudian mengunggah file halaman web yang dihasilkan ke server. Sederhananya, alat blogging ini membuat situs web statis sedikit lebih dinamis, mirip dengan mekanisme cache halaman situs web dinamis.
 
-![静态博客系统](https://ww4.sinaimg.cn/large/73bd9e13jw1ex6wbkhmgvj20fu04h0sp.jpg)
+Namun demikian, metode ini masih sangat rumit dan merepotkan.Jika Anda tidak terlalu merepotkan dan sangat tertarik, saya tetap menyarankan menggunakan situs web dinamis tradisional (Wordpress adalah pilihan yang bagus).
 
-但是，即便如此，这种方式仍然是十分繁琐和麻烦的，如果不是特别折腾，特别爱好的话，我还是建议使用传统的动态网站（Wordpress 是个好东西）。
-
-目前比较流行的静态博客系统有
+Termasuk sistem blog statis yang lebih populer saat ini
 
 - [Jekyll](https://github.com/jekyll/)
 
@@ -34,32 +32,32 @@ modify_date: 2017-09-16 15:00:00 +08:00
 
 - [Hexo](https://github.com/hexojs/hexo/)
 
-这个博客使用的是 Jekyll 博客系统，因为 GitHub Page 上已经搭建好了一个 Jekyll 的运行环境，我们只需上传源码即可，GitHub 会在后台自生成网页文件，不需要本地编译了，不需要为源码和网页文件分别建立分支了（强迫症表示很爽），而其他的系统需要你上传本地生成好的网页文件。这样一来，我们可以直接在网页版 GitHub 上编辑 Markdown 文件来直接发布博文了，是不是有动态网站的影子？
+Blog ini menggunakan sistem blog Jekyll, karena lingkungan operasi Jekyll telah diatur di Halaman GitHub. Kita hanya perlu mengunggah kode sumbernya. GitHub secara otomatis akan menghasilkan file halaman web di latar belakang. Tidak perlu mengkompilasinya secara lokal atau kompilasi kode sumber. Cabang dibuat secara terpisah untuk file halaman web (gangguan obsesif-kompulsif berarti itu bagus), sementara sistem lain mengharuskan Anda mengunggah file halaman web yang dibuat secara lokal. Dengan cara ini kita bisa langsung mengedit file Markdown di GitHub versi web untuk mempublikasikan postingan blog secara langsung, apakah mirip dengan website dinamis?
 
-## 搭建过程
+## Proses pembangunan
 
-这篇博文旨在记录此博客的形成过程，并非是一个搭建博客的教程，如果你对静态博客的搭建感兴趣，在网上的教程有很多，这里放上一个[知乎帖子](https://www.zhihu.com/question/20962496)，感兴趣的朋友可以参考一下。
+Posting blog ini dimaksudkan untuk merekam proses terbentuknya blog ini. Ini bukan tutorial menyiapkan blog. Jika Anda tertarik untuk membuat blog statis, ada banyak tutorial di Internet. Ini dia [postingan Zhihu ](https://www.zhihu.com/question/20962496), teman yang berminat bisa merujuknya.
 
-静态博客仅仅只提供了静态的页面，比如主页、博文等等，它无法提供评论这样具有动态交互的功能，这里我们可以借助第三方评论系统来实现。如今有很多社会化的评论系统，国外有 Disqus，这里我使用是多说，毕竟国内的评论系统还是更接地气些。
+Blog statis hanya menyediakan halaman statis seperti homepage, postingan blog, dll. Tidak dapat menyediakan fungsi interaktif dinamis seperti komentar. Di sini kita dapat menggunakan sistem komentar pihak ketiga untuk mencapai hal tersebut. Saat ini banyak sekali sistem komentar sosial, termasuk Disqus di luar negeri, saya pakai disini untuk bercerita lebih banyak, lagipula sistem komentar dalam negeri lebih membumi.
 
-还有就是博客的图片，因为图片体积相对较大，占据空间多，在传输时会大量的消耗服务器的带宽。**这里我建议把图片资源放在其他网站以减轻 GitHub 服务器的负担。**专业提供图片外链存储服务的网站叫做**图床**，它们提供空间存放图片，同时允许你把图片对外连接。其实空间相册，网盘等都可以当作图床，只要把博文所引用图片的访问权限设为公开（即所有人都能访问的）即可，这样不管是谁浏览你的博文就能看到引用的图片了。新浪微博的微相册就是一个很好的图床，本博客博文中的图片就是是存放在[这个微相册](http://photo.weibo.com/1941806611/albums)里的。
+Ada juga gambar blog, karena gambarnya relatif besar dan memakan banyak ruang, sehingga akan memakan banyak bandwidth server selama transmisi. **Di sini saya menyarankan untuk menempatkan sumber gambar di situs web lain untuk mengurangi beban pada server GitHub.**Situs web yang secara profesional menyediakan layanan penyimpanan tautan eksternal gambar disebut **Picture Bed**. Situs ini menyediakan ruang untuk menyimpan gambar dan memungkinkan Anda menghubungkan gambar ke dunia luar. Faktanya, album foto luar angkasa, disk jaringan, dll. dapat digunakan sebagai tempat tidur gambar. Cukup atur hak akses dari gambar yang dirujuk dalam posting blog ke publik (yaitu, dapat diakses oleh semua orang), sehingga siapa pun yang menelusuri Anda posting blog, mereka dapat melihatnya Gambar dikutip. Album foto mikro Sina Weibo adalah tempat tidur gambar yang bagus Gambar-gambar dalam postingan blog ini disimpan di [album foto mikro ini](http://photo.weibo.com/1941806611/albums).
 
-## 本博客使用到的工具
+## Alat yang digunakan di blog ini
 
 - [GitHub Pages](https://pages.github.com/)
 
-- [Jekyll](https://github.com/jekyll/) 静态博客系统
+- [Jekyll](https://github.com/jekyll/) Sistem blog statis
 
-- [Pygment](http://pygments.org/) 代码高亮
+- [Pygment](http://pygments.org/) penyorotan kode
 
-- [微相册](http://photo.weibo.com/) 图床
+- [微相册](http://photo.weibo.com/) tempat tidur bergambar
 
-- [Emojify.js](https://github.com/Ranks/emojify.js) 显示 Emoji
+- [Emojify.js](https://github.com/Ranks/emojify.js) Tampilkan Emoji
 
-- [DISQUS](https://disqus.com/) 评论系统
+- [DISQUS](https://disqus.com/) Sistem komentar
 
-- [Google Analytics](https://www.google.com/analytics/) 网站统计分析工具
+- [Google Analytics](https://www.google.com/analytics/) Alat analisis statistik situs web
 
-## 后记
+## Catatan tambahan
 
-[Qi's blog](https://tianqi.name/blog)是一个计算机技术博客。作为一个计算机专业的学生，学好专业知识的同时能够分享知识是一件很值得也是一件很有成就感的事。
+[YAN Blog](https://rian010.github.io/blog) adalah blog teknologi komputer. Sebagai mahasiswa ilmu komputer, sangatlah bermanfaat dan memuaskan untuk dapat berbagi ilmu sambil mempelajari ilmu profesional.
