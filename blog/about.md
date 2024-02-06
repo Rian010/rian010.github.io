@@ -1,9 +1,3 @@
-<!-- ---
-# layout: article
-# title: Tentang
-# key: page-about
---- -->
-
 ---
 layout: article
 excerpt_separator: <!--more-->
@@ -14,7 +8,11 @@ aside:
 sidebar:
   nav: layouts
 ---
-
+<!-- ---
+# layout: article
+# title: Tentang
+# key: page-about
+--- -->
 Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 
 Nama Saya MUHAMMAD RIAN (Anda juga bisa memanggil saya RIAN / BYAN)
