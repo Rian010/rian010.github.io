@@ -5,7 +5,7 @@ title: Tentang Blog ini
 key: 10001
 tags: blog
 category: blog
-date: 2024-02-06 23:15:00 +08:00
+date: 2024-02-05 23:15:00 +08:00
 ---
 
 Saya selalu senang menggunakan Evernote. Saya akan membagi pengalaman belajar, halaman web favorit, pemikiran mendadak, pengingat dll.
