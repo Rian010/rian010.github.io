@@ -1,7 +1,7 @@
 # rian010.github.io
 
-My Personal Website:
+Situs Pribadi Saya:
 
-Visit => [rian010.github.io](https://rian010.github.io/).
+Kunjungi => [rian010.github.io](https://rian010.github.io/).
 
-Powered by [Jekyll](http://jekyllrb.com/) & [TeXt Theme](https://github.com/rian010/jekyll-TeXt-theme).
+Dipersembahkan oleh [Jekyll](http://jekyllrb.com/) & [TeXt Theme](https://github.com/rian010/jekyll-TeXt-theme).
