@@ -20,7 +20,7 @@ SEARCH:
   zh-Hant: "搜索"
 
 CANCEL:
-  id:      "Membatalkan"
+  id:      "Batal"
   en:      "Cancel"
   zh:      "取消"
   zh-Hans: "取消"
