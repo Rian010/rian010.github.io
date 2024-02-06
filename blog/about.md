@@ -1,16 +1,9 @@
 ---
-# layout: article
-# title: Tentang
-# key: page-about
-layout: page
-tags: welcome introduction
-excerpt_separator: <!--more-->
+layout: article
+title: Tentang
+key: page-about
 key: home-page
-show_title: true
-comment: true
 author: YAN
-show_author_profile: true
-cover: https://avatars.githubusercontent.com/u/89960876?s=96&v=4
 ---
 Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 
