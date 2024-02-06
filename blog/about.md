@@ -1,12 +1,14 @@
 ---
 layout: article
-excerpt_separator: <!--more-->
 titles: Tentang
 key: page-about
 aside:
-  toc: true
+  toc: false
 sidebar:
-  nav: layouts
+  nav: aboutnav
+  author: deuterium
+  show_author_profile: true
+  excerpt_separator: <!--more-->
 ---
 <!-- ---
 # layout: article
