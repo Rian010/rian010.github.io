@@ -91,7 +91,7 @@ POST_ON_GITHUB:
 
 FOLLOW_ME:
   en:      "Follow me on [NAME]."
-  id:      "Ikuti saya di [NAMA]."
+  id:      "Ikuti saya."
   zh:      "在 [NAME] 上关注我。"
   zh-Hans: "在 [NAME] 上关注我。"
   zh-Hant: "在 [NAME] 上關注我。"

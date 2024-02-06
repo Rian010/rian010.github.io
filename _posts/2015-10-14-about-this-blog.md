@@ -1,5 +1,6 @@
 ---
 layout: article
+author: YAN
 title: Tentang blog ini
 key: 10001
 tags: blog
@@ -50,7 +51,7 @@ Ada juga gambar blog, karena gambarnya relatif besar dan memakan banyak ruang, s
 
 - [Pygment](http://pygments.org/) penyorotan kode
 
-- [微相册](http://photo.weibo.com/) tempat tidur bergambar
+- [Album mikro](http://photo.weibo.com/) tempat tidur bergambar
 
 - [Emojify.js](https://github.com/Ranks/emojify.js) Tampilkan Emoji
 
