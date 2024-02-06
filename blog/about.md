@@ -30,7 +30,7 @@ Jika Anda memiliki pertanyaan, silakan kirimkan saya email：[mhmmdriann@gmail.c
 
 ## Beberapa Tautan
 
-- [About This Blog](/blog/2024/02/05/Tentang-Blog-ini.html)
+- [Tentang Blog Ini](/blog/2024/02/05/Tentang-Blog-ini.html)
 <!-- - [Site Log](/blog/site-log.html) -->
 - [TeXt Theme](https://rian010.github.io/jekyll-TeXt-theme) [![GitHub stars](https://img.shields.io/github/stars/rian010/jekyll-TeXt-theme.svg?style=social&label=Stars)]()
 
