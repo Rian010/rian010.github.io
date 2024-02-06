@@ -1,8 +1,6 @@
 header:
   - title:      Blog
     url:        /blog/
-  - title:      GitHub
-    url:        https://github.com/rian010/
   - titles:
       en:       Archive
       id:       Arsip
@@ -17,3 +15,5 @@ header:
       zh-Hans:  关于
       zh-Hant:  關於
     url:        /blog/about.html
+  - title:      GitHub
+    url:        https://github.com/rian010/
