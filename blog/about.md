@@ -3,36 +3,35 @@ layout: article
 title: Tentang
 key: page-about
 ---
-Welcome to my blog! 
-Nama Saya MUHAMMAD RIAN (Anda juga bisa memanggil saya RIAN/BYAN)
-## Skills
+Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 
-- HTML5, CSS3(SASS), JavaScript(ES2017, Node.js), Bash(Zsh)
-- React, React Native, Vue.js
-- gulp, webpack
-- Adobe Photoshop, Sketch
+Nama Saya MUHAMMAD RIAN (Anda juga bisa memanggil saya RIAN / BYAN)
+
+<!-- ## Skills -->
+
+<!-- - HTML5, CSS3(SASS), JavaScript(ES2017, Node.js), Bash(Zsh) -->
+<!-- - React, React Native, Vue.js -->
+<!-- - gulp, webpack -->
+<!-- - Adobe Photoshop, Sketch -->
 
 <!--more-->
 
-## About Me | 关于我
+## Tenatang Saya
 
-你们好，我叫田琦，这是我的博客。
+Halo, nama saya MUHAMMAD RIAN, ini blog saya。
 
-我崇尚 Geek 精神与开源文化 :octocat:，喜欢简洁、优美、模块化的代码。爱折腾，折腾系统，折腾软件，折腾语言，折腾框架……生命不息，折腾不止。:muscle:
+Saya mengagumi semangat Geek dan budaya open source :octocat:，Seperti kode yang ringkas, indah, dan modular.Saya suka bermain-main, bermain-main dengan sistem, bermain-main dengan perangkat lunak, bermain-main dengan bahasa, bermain-main dengan kerangka kerja... Hidup tidak ada habisnya dan bermain-main tidak ada habisnya.:muscle:
 
-平时喜欢看小说，看漫画 :books:。没事跑跑步 :runner:，看看电影 :movie_camera: ，聚个餐 :rice: :notes:。一个很普通的开发者。:see_no_evil:
+Saya biasanya suka membaca Bisnis dan Teknologi :books:. Tidak apa-apa untuk lari. :runner:, menonton film :movie_camera: , makan malam bersama :rice: :notes:. Pengembang yang sangat biasa.:see_no_evil:
 
-感谢计算机给我们提供了一个完美的试验场，这里没有太多的约束，就像*我的世界*一样，是一片自由的乌托邦之地。在这里，我们可以让想象力 :thought_balloon: 自由驰骋 :rocket:，让计算机完成我们想到的事。我认为，将计算机世界和现实世界连接起来 :computer: :link: :earth_asia: 是我等猿族的使命。
+Terima kasih kepada komputer yang telah menyediakan tempat pengujian yang sempurna bagi kami, tidak banyak kendala di sini, seperti *Minecraft*, ini adalah utopia gratis. Di sini kita bisa membiarkan imajinasi kita menjadi liar :thought_balloon: kebebasan bertindak :rocket:, biarkan komputer melakukan apa yang kita pikirkan. Saya percaya bahwa menghubungkan dunia komputer dan dunia nyata :computer: :link: :earth_asia: Inilah misi kita sebagai kera.
 
-如果你有任何问题，请给我发送邮件：[kitian616@outlook.com](mailto:kitian616@outlook.com)
+Jika Anda memiliki pertanyaan, silakan kirimkan saya email：[mhmmdriann@gmail.com](mhmmdriann@gmail.com)
 
-## Some Links | 相关链接
+## Beberapa Tautan
 
 - [About This Blog](/blog/2015/10/14/about-this-blog.html)
-- [Site Log](/blog/site-log.html)
-- [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) [![GitHub stars](https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?style=social&label=Stars)]()
+<!-- - [Site Log](/blog/site-log.html) -->
+- [TeXt Theme](https://github.com/rian010/jekyll-TeXt-theme) [![GitHub stars](https://img.shields.io/github/stars/rian010/jekyll-TeXt-theme.svg?style=social&label=Stars)]()
 
 ---
-
-- [dwb-blog](http://dwbbb.com/)
-- [venoral's blog](http://www.cnblogs.com/venoral)

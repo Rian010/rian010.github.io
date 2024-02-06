@@ -3,12 +3,14 @@ header:
     url:        /blog/
   - titles:
       en:       Archive
+      id:       Arsip
       zh:       归档
       zh-Hans:  归档
       zh-Hant:  歸檔
     url:        /blog/archive.html
   - titles:
       en:       About
+      id:       Tentang
       zh:       关于
       zh-Hans:  关于
       zh-Hant:  關於
