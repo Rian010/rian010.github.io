@@ -2,13 +2,6 @@
 layout: article
 titles: Tentang
 key: page-about
-aside:
-  toc: false
-sidebar:
-  nav: aboutnav
-  author: YAN
-  show_author_profile: true
-  excerpt_separator: <!--more-->
 ---
 <!-- ---
 # layout: article
