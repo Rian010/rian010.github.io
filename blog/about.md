@@ -6,7 +6,7 @@ aside:
   toc: false
 sidebar:
   nav: aboutnav
-  author: deuterium
+  author: YAN
   show_author_profile: true
   excerpt_separator: <!--more-->
 ---
