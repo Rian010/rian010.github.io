@@ -1,9 +1,16 @@
 ---
+# layout: article
+# title: Tentang
+# key: page-about
+---
 layout: article
-title: Tentang
+excerpt_separator: <!--more-->
+titles: Tentang
 key: page-about
-key: home-page
-author: YAN
+aside:
+  toc: true
+sidebar:
+  nav: layouts
 ---
 Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 
