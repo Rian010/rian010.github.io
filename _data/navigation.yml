@@ -15,10 +15,5 @@ header:
       zh-Hans:  关于
       zh-Hant:  關於
     url:        /blog/about.html
-      - titles:
-      en:       About
-      id:       Tentang
-      zh:       关于
-      zh-Hans:  关于
-      zh-Hant:  關於
+      - titles: GitHub
     url:        https://github.com/rian010/l
