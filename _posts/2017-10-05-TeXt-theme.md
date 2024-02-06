@@ -44,6 +44,6 @@ Tentu saja fungsinya masih lengkap:
 
 Secara keseluruhan, tema kali ini merupakan karya pertama yang membuat saya cukup puas. Pertama-tama, tidak perlu mencari sampul atau gambar (ini juga alasan terbesar mengapa saya membuat tema sendiri). Kedua, itu tidak jelek (setidaknya menurut saya begitu). Terakhir, ia memiliki indikator daftar isi artikel, yang menurut saya merupakan fitur yang diperlukan.
 
-Tema telah dirilis secara resmi, dan dokumen yang relatif detail telah ditulis. Untuk detailnya, lihat [rian010/jekyll-TeXt-theme](https://github.com/rian010/jekyll-TeXt-theme). Selamat menggunakan dan mencari kesalahannya, tentunya akan lebih baik jika Anda bisa mengirimkan kodenya. :senyum:
+Tema telah dirilis secara resmi, dan dokumen yang relatif detail telah ditulis. Untuk detailnya, lihat [rian010/jekyll-TeXt-theme](https://github.com/rian010/jekyll-TeXt-theme). Selamat menggunakan dan mencari kesalahannya, tentunya akan lebih baik jika Anda bisa mengirimkan kodenya. :smile:
 
 Gaya keseluruhan blog tidak boleh berubah secara signifikan, konten adalah yang terpenting.
