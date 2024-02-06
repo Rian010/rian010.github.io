@@ -14,7 +14,7 @@ Saya selalu senang menggunakan Evernote. Saya akan membagi pengalaman belajar, h
 
 Suatu hari hujan, ketika saya sedang memilah catatan saya, saya menyesali bahwa sebagian besar catatan saya berada dalam siklus pembuatan, modifikasi, dan melupakan. Setelah suatu catatan ditulis dalam jangka waktu tertentu, lambat laun akan terlupakan di pojokan, kecuali kadang-kadang jika dilihat atau dicari secara tidak sengaja, di lain waktu catatan itu tergeletak diam di sana tanpa ada yang menghargainya.Inilah tragedi catatan yang sebenarnya. Tiba-tiba saya berpikir, jika saya menyusun catatan ini dan menaruhnya secara online, bukankah catatan tersebut dapat diperiksa dan dibaca oleh orang lain yang membutuhkannya? Jadi ide untuk menulis blog muncul saat itu, namun baru pada musim panas ini saya membuka blog saya sendiri.
 
-Setelah memposting 4 postingan blog (teknis), saya merasa meskipun platform blogging ini nyaman, namun belum cukup dipersonalisasi dan dapat disesuaikan, jadi saya ingin mencoba membuat blog sendiri. Setelah mencoba beberapa host gratis dan menyerah karena terlalu lambat dan rumit, saya tidak sengaja melihat 4 postingan blog (teknis) dan merasa meskipun platform blog ini nyaman, namun kurang dipersonalisasi dan kurang penyesuaian, jadi saya berpikir Cobalah untuk membangun blog sendiri. 
+Setelah mencoba beberapa host gratis dan menyerah karena terlalu lambat dan rumit, jadi saya berpikir Cobalah untuk membangun blog sendiri. 
 
 ## Blog statis
 
@@ -36,11 +36,11 @@ Blog ini menggunakan sistem blog Jekyll, karena lingkungan operasi Jekyll telah 
 
 ## Proses pembangunan
 
-Posting blog ini dimaksudkan untuk merekam proses terbentuknya blog ini. Ini bukan tutorial menyiapkan blog. Jika Anda tertarik untuk membuat blog statis, ada banyak tutorial di Internet. Ini dia [postingan Zhihu ](https://www.zhihu.com/question/20962496), teman yang berminat bisa merujuknya.
+Posting blog ini dimaksudkan untuk merekam proses terbentuknya blog ini. Jika Anda tertarik untuk membuat blog statis, ada banyak tutorial di Internet. Ini dia contoh proses pembuatan blog saya [rian010.github.io/jekyll-TeXt-theme](https://rian010.github.io/jekyll-TeXt-theme/).
 
-Blog statis hanya menyediakan halaman statis seperti homepage, postingan blog, dll. Tidak dapat menyediakan fungsi interaktif dinamis seperti komentar. Di sini kita dapat menggunakan sistem komentar pihak ketiga untuk mencapai hal tersebut. Saat ini banyak sekali sistem komentar sosial, termasuk Disqus di luar negeri, saya pakai disini untuk bercerita lebih banyak, lagipula sistem komentar dalam negeri lebih membumi.
+Blog statis hanya menyediakan halaman statis seperti homepage, postingan blog, dll. Tidak dapat menyediakan fungsi interaktif dinamis seperti komentar. Di sini kita dapat menggunakan sistem komentar pihak ketiga untuk mencapai hal tersebut. Saat ini banyak sekali sistem komentar sosial, termasuk Disqus, saya pakai disini untuk bercerita lebih banyak.
 
-Ada juga gambar blog, karena gambarnya relatif besar dan memakan banyak ruang, sehingga akan memakan banyak bandwidth server selama transmisi. **Di sini saya menyarankan untuk menempatkan sumber gambar di situs web lain untuk mengurangi beban pada server GitHub.**Situs web yang secara profesional menyediakan layanan penyimpanan tautan eksternal gambar disebut **Picture Bed**. Situs ini menyediakan ruang untuk menyimpan gambar dan memungkinkan Anda menghubungkan gambar ke dunia luar. Faktanya, album foto luar angkasa, disk jaringan, dll. dapat digunakan sebagai tempat tidur gambar. Cukup atur hak akses dari gambar yang dirujuk dalam posting blog ke publik (yaitu, dapat diakses oleh semua orang), sehingga siapa pun yang menelusuri Anda posting blog, mereka dapat melihatnya Gambar dikutip. Album foto mikro Sina Weibo adalah tempat tidur gambar yang bagus Gambar-gambar dalam postingan blog ini disimpan di [album foto mikro ini](http://photo.weibo.com/1941806611/albums).
+Ada juga gambar blog, karena gambarnya relatif besar dan memakan banyak ruang, sehingga akan memakan banyak bandwidth server selama transmisi. **Di sini saya menyarankan untuk menempatkan sumber gambar di situs web lain untuk mengurangi beban pada server GitHub.**Situs web yang secara profesional menyediakan layanan penyimpanan tautan eksternal gambar disebut **Picture Bed**. Situs ini menyediakan ruang untuk menyimpan gambar dan memungkinkan Anda menghubungkan gambar ke dunia luar. Faktanya, album foto luar angkasa, disk jaringan, dll. dapat digunakan sebagai tempat tidur gambar / penyimpanan cloud. Cukup atur hak akses dari gambar yang dirujuk dalam posting blog ke publik (yaitu, dapat diakses oleh semua orang), sehingga siapa pun yang menelusuri Anda posting blog, mereka dapat melihatnya Gambar dikutip. Album foto mikro Sina Weibo adalah tempat tidur gambar / penyimpanan cloud yang bagus Gambar-gambar dalam postingan blog ini disimpan di [album foto mikro ini](http://photo.weibo.com/1941806611/albums).
 
 ## Alat yang digunakan di blog ini
 
@@ -50,7 +50,7 @@ Ada juga gambar blog, karena gambarnya relatif besar dan memakan banyak ruang, s
 
 - [Pygment](http://pygments.org/) penyorotan kode
 
-- [Album mikro](http://photo.weibo.com/) tempat tidur bergambar
+- [Album mikro](http://photo.weibo.com/) tempat tidur bergambar / penyimpanan cloud
 
 - [Emojify.js](https://github.com/Ranks/emojify.js) Tampilkan Emoji
 
@@ -60,4 +60,4 @@ Ada juga gambar blog, karena gambarnya relatif besar dan memakan banyak ruang, s
 
 ## Catatan tambahan
 
-[YAN Blog](https://rian010.github.io/blog) adalah blog teknologi komputer. Sebagai mahasiswa ilmu komputer, sangatlah bermanfaat dan memuaskan untuk dapat berbagi ilmu sambil mempelajari ilmu profesional.
+[YAN Blog](https://rian010.github.io/blog) adalah blog teknologi komputer. Sebagai Pelajar ilmu komputer, sangatlah bermanfaat dan memuaskan untuk dapat berbagi ilmu sambil mempelajari ilmu profesional.
