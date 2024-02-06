@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "https://github.com/rian010/rian010.github.io.git",
+      "request": "launch",
+      "url": "https://github.com/rian010/rian010.github.io.git"
+    }
+  ]
+}
