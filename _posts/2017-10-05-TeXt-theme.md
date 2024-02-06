@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Deskripsi: TeXt Theme
+title: TeXt Theme
 key: 100017
 tags: blog
 category: blog
