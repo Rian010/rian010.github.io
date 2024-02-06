@@ -1,10 +1,10 @@
 ---
 layout: article
-title: 关于此博客
+title: tentang blog ini
 key: 10001
 tags: blog
 category: blog
-date: 2015-10-14 23:15:00 +08:00
+date: 2024-10-14 23:15:00 +08:00
 modify_date: 2017-09-16 15:00:00 +08:00
 ---
 
