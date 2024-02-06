@@ -6,7 +6,6 @@ key: 10001
 tags: blog
 category: blog
 date: 2024-02-06 23:15:00 +08:00
-modify_date: 2024-02-06 15:00:00 +08:00
 ---
 
 Saya selalu senang menggunakan Evernote. Saya akan membagi pengalaman belajar, halaman web favorit, pemikiran mendadak, pengingat dll.
