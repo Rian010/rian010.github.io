@@ -16,7 +16,7 @@ Nama Saya MUHAMMAD RIAN (Anda juga bisa memanggil saya RIAN / BYAN)
 
 <!--more-->
 
-## Tenatang Saya
+## Tentang Saya
 
 Halo, nama saya MUHAMMAD RIAN, ini blog saya。
 
