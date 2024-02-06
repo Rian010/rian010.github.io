@@ -1,24 +1,40 @@
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-{%- include snippets/get-article-title.html article=page -%}
-<title>{%- if __return -%}{{ __return }} - {{ site.title }}{%- else -%}{{ site.title }}{%- endif -%}</title>
-
-<meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}{%- else -%}{{ site.description }}{%- endif -%}">
-<link rel="canonical" href="{%- include snippets/page-url.html -%}">
-
-{%- assign _paths_rss = site.paths.rss | default: site.data.variables.default.paths.rss -%}
-{%- include snippets/get-nav-url.html path=_paths_rss -%}
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ __return }}">
-
-{%- include head/favicon.html -%}
-
-{%- include snippets/prepend-baseurl.html path='/assets/css/main.css' -%}
-<link rel="stylesheet" href="{{ __return }}">
-
-{%- include snippets/get-sources.html -%}
-{%- assign _sources = __return -%}
-<link rel="stylesheet" href="{{ _sources.font_awesome }}" >
-
-{%- include head/custom.html -%}
+{%- if include.theme == 'dark' -%}
+  <header class="header header--dark" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+{%- elsif include.theme == 'light' -%}
+  <header class="header header--light" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+{%- else -%}
+  <header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+{%- endif -%}
+    <div class="main">
+      <div class="header__title">
+        <div class="header__brand">
+          {%- include svg/logo.svg -%}
+          {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
+          {%- include snippets/get-nav-url.html path=_paths_root -%}
+          {%- if site.title -%}
+            <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
+          {%- endif -%}
+        </div>
+        <button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button>
+      </div>
+      {%- if site.data.navigation.header -%}
+      <nav class="navigation">
+        <ul>
+          {%- for _item in site.data.navigation.header -%}
+            {%- include snippets/get-nav-url.html path=_item.url -%}
+            {%- assign _nav_url = __return -%}
+            {%- include snippets/get-nav-url.html path=page.url -%}
+            {%- assign _page_url = __return -%}
+            {%- include snippets/locale-to-string.html locale=_item.titles -%}
+            {%- if _nav_url == _page_url -%}
+              <li class="navigation__link navigation__link--active"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
+            {%- else -%}
+              <li class="navigation__link"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
+            {%- endif -%}
+          {%- endfor -%}
+          <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
+        </ul>
+      </nav>
+      {%- endif -%}
+    </div>
+  </header>
