@@ -1,21 +1,18 @@
 ---
-layout: article
-author: YAN
 title: Definisi, Pilar, Ancaman, dan Praktik Terbaik Keamanan Siber 
 tags: Cyberscurity
-category: Cyberscurity
 date: 2024-02-09 06:58:00 +08:00
 ---
 Keamanan siber, yang dikenal pula sebagai keamanan informasi elektronik atau keamanan teknologi informasi, merupakan praktik proteksi sistem, jaringan, perangkat, program, dan data dari serangan siber. Tujuan utama penerapannya adalah untuk meredam risiko serangan siber dan melindungi informasi sensitif dari pengungkapan, penggunaan, modifikasi, gangguan, atau penghancuran yang tidak sah.
 <!--more-->
 
-##**Tiga Pilar Keamanan Siber:**
+## Tiga Pilar Keamanan Siber:
 
 1. **Kerahasiaan:** Hanya individu yang memiliki otoritas yang dapat mengakses informasi.
 2. **Integritas:** Informasi terjaga keakuratan dan kelengkapannya.
 3. **Ketersediaan:** Informasi dapat diakses oleh pihak yang berwenang saat dibutuhkan.
 
-##**Jenis-jenis Ancaman Keamanan Siber:**
+## Jenis-jenis Ancaman Keamanan Siber:
 
 * **Malware:** Perangkat lunak berbahaya yang berpotensi merusak komputer atau jaringan.
 * **Penyerangan phishing:** Upaya penipuan untuk memperoleh informasi pribadi dari korban.
@@ -23,11 +20,11 @@ Keamanan siber, yang dikenal pula sebagai keamanan informasi elektronik atau kea
 * **Peretasan:** Akses tidak sah ke sistem atau jaringan.
 * **Rekayasa sosial:** Manipulasi terhadap individu agar divulging informasi pribadi atau melakukan tindakan yang tidak aman.
 
-##**Pentingnya Keamanan Siber:**
+## Pentingnya Keamanan Siber:
 
 Keamanan siber merupakan aspek krusial bagi individu, bisnis, dan pemerintah. Penerapan langkah-langkah proteksi untuk menangkal ancaman siber sangatlah penting.
 
-##**Praktik Terbaik Keamanan Siber:**
+## Praktik Terbaik Keamanan Siber:
 
 * **Penggunaan kata sandi yang kuat dan unik:** Meminimalisir potensi peretasan akun.
 * **Pemasangan perangkat lunak antivirus dan antispyware:** Meningkatkan proteksi terhadap malware.
