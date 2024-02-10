@@ -1,7 +1,7 @@
 ---
 title: Generative AI Menciptakan Dunia Baru dengan Kecerdasan Buatan
 tags: AI
-date: 2024-02-11 06:58:00 +08:00
+date: 2024-02-10 06:58:00 +08:00
 ---
 ![Genertive AI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8VRApfPdxccEE_LqIu_y6jWi73Wm66SRXjQ&usqp=CAU)
 
