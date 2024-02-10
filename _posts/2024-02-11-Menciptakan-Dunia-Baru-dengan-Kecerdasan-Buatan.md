@@ -29,7 +29,7 @@ Generative AI memiliki berbagai aplikasi, termasuk:
 
 * **DeepMind:** [https://deepmind.com/](https://deepmind.com/)
 * **OpenAI:** [https://openai.com/](https://openai.com/)
-* **Nvidia:** <URL yang tidak valid dihapus>
+* **Nvidia:**
 * **Stanford CS231n: Convolutional Neural Networks for Visual Recognition:** [https://www.coursera.org/learn/convolutional-neural-networks](https://www.coursera.org/learn/convolutional-neural-networks)
 * **MIT 6.S191: Introduction to Deep Learning:** [https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/](https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/)
 
