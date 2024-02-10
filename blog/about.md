@@ -25,7 +25,7 @@ Nama Saya MUHAMMAD RIAN (Anda juga bisa memanggil saya RIAN / BYAN)
 
 Halo, nama saya MUHAMMAD RIAN, ini blog saya。
 
-Saya mengagumi semangat Geek dan budaya open source :octocat:，Seperti kode yang ringkas, indah, dan modular.Saya suka bermain-main, bermain-main dengan sistem, bermain-main dengan perangkat lunak, bermain-main dengan bahasa, bermain-main dengan kerangka kerja... Hidup tidak ada habisnya dan bermain-main tidak ada habisnya.:muscle:
+Saya mengagumi semangat Geek dan budaya open source :octocat: Seperti kode yang ringkas, indah, dan modular.Saya suka bermain-main, bermain-main dengan sistem, bermain-main dengan perangkat lunak, bermain-main dengan bahasa, bermain-main dengan kerangka kerja... Hidup tidak ada habisnya dan bermain-main tidak ada habisnya.:muscle:
 
 Saya biasanya suka membaca Bisnis dan Teknologi :books:. Tidak apa-apa untuk lari. :runner:, menonton film :movie_camera: , makan malam bersama :rice: :notes:. Pengembang yang sangat biasa.:see_no_evil:
 
