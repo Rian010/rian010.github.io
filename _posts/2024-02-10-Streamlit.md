@@ -1,6 +1,6 @@
 ---
 title: Streamlit Framework Open Source
-tags: Open Source, Python, Web
+tags: OpenSource Python Web
 date: 2024-02-10 07:58:00 +08:00
 ---
 ![Streamlit](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ90nmtRzBbC9Wc6RfGTlQKqRXourI5UO80A&usqp=CAU)
