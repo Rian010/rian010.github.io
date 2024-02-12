@@ -5,7 +5,7 @@ date: 2024-02-13 00:56:00 +08:00
 ---
 ![g](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTfdQpTqNGpkCcKuW7ZOvzXGQ7XoFHWYw26Q&usqp=C)
 
- ## Belajar Fullstack Development
+## Belajar Fullstack Development
 
 Fullstack development adalah suatu cabang dari pengembangan perangkat lunak yang mencakup segala aspek dari pengembangan sebuah aplikasi web, mulai dari layer frontend hingga backend. Untuk memulai belajar fullstack development, Anda perlu memiliki dasar-dasar pemrograman dan pengenalan tentang beberapa teknologi dan bahasa pemrograman yang akan Anda gunakan.
 
