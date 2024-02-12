@@ -8,7 +8,6 @@ date: 2024-02-12 07:58:00 +08:00
 Berikut adalah langkah-langkah untuk memasukkan project lokal ke repo Github:
 
 
-<!--more-->
 
 
 ## **1. Buat Repo Baru di Github:**
@@ -18,7 +17,7 @@ Berikut adalah langkah-langkah untuk memasukkan project lokal ke repo Github:
 - Berikan nama repo dan deskripsi singkat (opsional).
 - Pilih "Public" atau "Private" untuk visibility repo.
 - Klik tombol "Create repository".
-
+<!--more-->
 ## **2. Inisialisasi Git di Project Lokal:**
 
 - Buka terminal/command prompt di folder project lokal Anda.
@@ -84,7 +83,6 @@ git push origin main
 
 **Sumber Informasi:**
 
-* **Dokumentasi Git:** [https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository): [https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
-* **Panduan Github:** <URL yang tidak valid dihapus>: <URL yang tidak valid dihapus>
+* **Dokumentasi Git:** [https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
 
 **Semoga informasi ini bermanfaat!**
