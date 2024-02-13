@@ -8,7 +8,7 @@ key: page-about
 # title: Tentang
 # key: page-about
 --- -->
-Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
+Selamat datang di blog saya! :earth_asia: :earth_africa: :earth_americas:
 
 Nama Saya MUHAMMAD RIAN (Anda juga bisa memanggil saya RIAN / BYAN)
 
@@ -25,11 +25,11 @@ Nama Saya MUHAMMAD RIAN (Anda juga bisa memanggil saya RIAN / BYAN)
 
 Halo, nama saya MUHAMMAD RIAN, ini blog saya。
 
-Saya mengagumi semangat Geek dan budaya open source :octocat: Seperti kode yang ringkas, indah, dan modular.Saya suka bermain-main, bermain-main dengan sistem, bermain-main dengan perangkat lunak, bermain-main dengan bahasa, bermain-main dengan kerangka kerja... Hidup tidak ada habisnya dan bermain-main tidak ada habisnya.:muscle:
+Saya mengagumi budaya open source. Seperti kode yang ringkas, indah, dan modular.Saya suka bermain-main, bermain-main dengan sistem, bermain-main dengan perangkat lunak, bermain-main dengan bahasa, bermain-main dengan kerangka kerja... Hidup tidak ada habisnya dan bermain-main tidak ada habisnya.:muscle:
 
-Saya biasanya suka membaca Bisnis dan Teknologi :books:. Tidak apa-apa untuk lari. :runner:, menonton film :movie_camera: , makan malam bersama :rice: :notes:. Pengembang yang sangat biasa.:see_no_evil:
+Saya biasanya suka membaca dan belajar tentang Bisnis dan Teknologi :books:. Tidak apa-apa sambil berlari. :runner:, menonton film :movie_camera: ,. Saya Pengembang yang sangat biasa.:see_no_evil:
 
-Terima kasih kepada komputer yang telah menyediakan tempat pengujian yang sempurna bagi kami, tidak banyak kendala di sini, seperti *Minecraft*, ini adalah utopia gratis. Di sini kita bisa membiarkan imajinasi kita menjadi liar :thought_balloon: kebebasan bertindak :rocket:, biarkan komputer melakukan apa yang kita pikirkan. Saya percaya bahwa menghubungkan dunia komputer dan dunia nyata :computer: :link: :earth_asia: Inilah misi kita sebagai manusia.
+Terima kasih kepada komputer yang telah menyediakan tempat pengujian yang sempurna bagi kami, tidak banyak kendala di sini, seperti *Minecraft*, ini adalah komunitas gratis. Di sini kita bisa membiarkan imajinasi kita menjadi liar :thought_balloon: kebebasan bertindak :rocket:, biarkan komputer melakukan apa yang kita pikirkan. Saya percaya bahwa kita bisa menghubungkan dunia komputer dan dunia nyata :computer: :link: :earth_asia: Inilah misi kita sebagai manusia.
 
 Jika Anda memiliki pertanyaan, silakan kirimkan saya email：[mhmmdriann@gmail.com](mhmmdriann@gmail.com)
 
